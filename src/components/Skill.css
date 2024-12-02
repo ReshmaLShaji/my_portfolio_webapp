@@ -1,0 +1,41 @@
+.text-title text-center{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(225, 225, 16);
+    /* font-size: 55px;
+    margin-top: 50px;
+    margin-bottom: 80px; */
+  }
+
+
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-weight: bold;
+  color: rgb(241, 231, 85);
+}
+
+.card-body{
+  background-color: black;
+  display: flexbox;
+  
+}
+.card-text {
+    font-size: 18px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(253, 253, 251);
+
+}
+.col{
+ top: 70px;
+}
+

@@ -1,0 +1,25 @@
+body{
+background-color: black;
+}
+
+
+.whole {
+    padding: 20px;
+  }
+  
+  .a {
+    font-size: 50px;
+    font-weight: bold;
+    color: darkkhaki;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .pic {
+    max-width: 100%;
+    height: auto;
+  }
+
+  
+    
+
+  

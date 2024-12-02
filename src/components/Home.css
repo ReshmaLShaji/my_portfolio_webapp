@@ -1,0 +1,90 @@
+
+body{
+  background-color: black;
+}
+  span1{
+    color:rgb(243, 243, 6);
+
+  }
+  span2{
+      color:rgb(234, 255, 205);
+  }
+  span{
+      color: white;
+  }
+  .hi{
+      font-size: 50px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      color:rgb(226, 242, 172);
+      height: 20px;
+      /* margin-top:-600px; */
+  }
+  .introText{
+      font-size: 50px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .introName{
+      font-size: 60px;
+      font-family:'Times New Roman', Times, serif;
+      color:rgb(253, 253, 2);
+
+  }
+  .introLast{
+      font-size: 40px;
+  }
+  .introContent {
+    height: 60vh;
+    padding-right: 443px;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5rem;
+  }
+  .intro{
+    height:calc(100vh-4rem);
+    width: 100;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    padding: 2rem;
+      font-size: 3rem;
+      font-weight: 700;
+      display: flex;
+      justify-content: center;
+      flex-direction: column; 
+  }
+  .logos{
+    position: absolute;
+    top: 20px;;
+    right: 0;
+    z-index: -1;
+    object-fit: cover;
+    height: 80vh;
+
+  }
+
+
+  .resumes {
+    font-family: fantasy;
+    color: #f1f915;
+    
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #5e5e0c;
+  color: rgb(245, 241, 241);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+button:hover {
+  background-color: #fcfcfc;
+}
+
+  

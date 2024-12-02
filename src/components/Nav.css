@@ -1,0 +1,100 @@
+
+   body{
+        background-color: black;
+    }
+    .navbar{
+      margin-top: -10px;
+      margin-bottom: 6px;
+    }
+    .navbar-brand{
+         padding-left: 1rem;
+       
+    }
+    .bg-body-tertiary {
+        --bs-bg-opacity: 0;
+        
+        background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
+    }
+   .navbar-brand{
+        padding: 1rem;
+        margin:8px ;
+        font-size: 65px;
+    }
+    .navbar-nav{
+        padding-left: 350px;
+        
+    }
+    .nav-item{
+        font-family:'Times New Roman', Times, serif;
+        color: rgb(252, 252, 100);
+        font-size: 50px;
+    }
+    
+    a{
+       color:white;
+       padding-left: 10px;
+    }
+    .container-fluid{
+        background-color: black;
+        /* padding: 20px;
+     */
+    }
+    .space{
+        margin-left: 15px;
+        font-size: 30px;
+        margin-left: 10px;
+        color: yellow
+    }
+    span1{
+      color:rgb(243, 243, 6);
+
+    }
+    span2{
+        color:rgb(234, 255, 205);
+    }
+    span{
+        color: white;
+    }
+    .hi{
+        font-size: 25px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color:white;
+    }
+    .introText{
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .introName{
+        font-size: 60px;
+        font-family:'Times New Roman', Times, serif;
+        color:rgb(140, 140, 76);
+
+    }
+    .introLast{
+        font-size: 40px;
+    }
+    .introContent{
+         height: 100vh;
+        padding-right: 820px;
+        /* padding: 2rem;
+        font-size: 3rem;
+        font-weight: 700;
+        display: flex;
+        justify-content: center;
+        flex-direction: column; */ 
+        margin-top: 10rem;
+
+    }
+    .intro{
+         padding: 2rem;
+        font-size: 3rem;
+        font-weight: 700;
+        display: flex;
+        justify-content: center;
+        flex-direction: column; 
+    }
+    li:hover{
+        color:rgb(234, 234, 18);
+    }
+
+        
